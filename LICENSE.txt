@@ -1,1 +1,13 @@
-test
+f51f284 HEAD@{0}: reset: moving to f51f284
+d94a034 HEAD@{1}: reset: moving to d94a034
+b15797a HEAD@{2}: reset: moving to b1579
+d94a034 HEAD@{3}: reset: moving to d94a034
+f51f284 HEAD@{4}: reset: moving to f51f284
+b15797a HEAD@{5}: reset: moving to b15797a
+d94a034 HEAD@{6}: reset: moving to HEAD^
+f51f284 HEAD@{7}: commit: git tracks changes
+d94a034 HEAD@{8}: commit: understand how stage works
+7106f92 HEAD@{9}: reset: moving to 7106f
+b15797a HEAD@{10}: reset: moving to HEAD^
+7106f92 HEAD@{11}: commit: append GPL
+b15797a HEAD@{12}: commit (initial): wrote a readme file
