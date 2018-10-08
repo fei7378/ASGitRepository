@@ -1,13 +1,17 @@
-f51f284 HEAD@{0}: reset: moving to f51f284
-d94a034 HEAD@{1}: reset: moving to d94a034
-b15797a HEAD@{2}: reset: moving to b1579
-d94a034 HEAD@{3}: reset: moving to d94a034
+0573042 HEAD@{0}: reset: moving to 0573042
+b15797a HEAD@{1}: reset: moving to b15797a
+0573042 HEAD@{2}: reset: moving to 0573042
+0573042 HEAD@{3}: commit: feiTestCommitAndAdd
 f51f284 HEAD@{4}: reset: moving to f51f284
-b15797a HEAD@{5}: reset: moving to b15797a
-d94a034 HEAD@{6}: reset: moving to HEAD^
-f51f284 HEAD@{7}: commit: git tracks changes
-d94a034 HEAD@{8}: commit: understand how stage works
-7106f92 HEAD@{9}: reset: moving to 7106f
-b15797a HEAD@{10}: reset: moving to HEAD^
-7106f92 HEAD@{11}: commit: append GPL
-b15797a HEAD@{12}: commit (initial): wrote a readme file
+d94a034 HEAD@{5}: reset: moving to d94a034
+b15797a HEAD@{6}: reset: moving to b1579
+d94a034 HEAD@{7}: reset: moving to d94a034
+f51f284 HEAD@{8}: reset: moving to f51f284
+b15797a HEAD@{9}: reset: moving to b15797a
+d94a034 HEAD@{10}: reset: moving to HEAD^
+f51f284 HEAD@{11}: commit: git tracks changes
+d94a034 HEAD@{12}: commit: understand how stage works
+7106f92 HEAD@{13}: reset: moving to 7106f
+b15797a HEAD@{14}: reset: moving to HEAD^
+7106f92 HEAD@{15}: commit: append GPL
+b15797a HEAD@{16}: commit (initial): wrote a readme file
